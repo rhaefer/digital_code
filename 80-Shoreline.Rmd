@@ -1,22 +1,26 @@
 # CHAPTER 80: Shoreline {-}
 REVIEW OF PROJECTS IN THE SHOREZONE AND LAKEZONE
 
-## <b> 80.1 </b> PURPOSE {-}
+##  80.1  PURPOSE {-}
 
   The Shorezone Subelement, Conservation Element of the Goals and Policies identifies special qualities, including      physical, biological and visual, that shall be considered when reviewing a project in the shorezone or lakezone.  In   accordance with those policies, this chapter sets forth findings that must be made by TRPA prior to approving a       project in the shorezone or lakezone. This is the change to the shoreline code.
 
-## <b> 80.2 APPLICABILITY </b> {-}
+##  80.2 APPLICABILITY {-}
 
 All projects and activities in lagoons or the shorezone or lakezone of any lake in the Region shall comply with the provisions of this chapter.
 
-## <b> 80.3 REQUIRED FINDINGS </b> {-}
+```{r, message=F, warning=F, echo=F}
+knitr::include_graphics("H:/projects/digital_code/digital_code/images/olympic_mountain_goats.jpg")
+```
 
-### <b> 80.3.1 Findings Required for Lakezone, Shorezone, and Lagoon Projects. </b> {-}
+##  80.3 REQUIRED FINDINGS  {-}
+
+###  80.3.1 Findings Required for Lakezone, Shorezone, and Lagoon Projects.  {-}
 No project or activity within the lakezone, shorezone, or lagoon of lakes in the Region, shall be approved unless TRPA makes all the applicable findings listed below.
 
-### <b> 80.3.2 Findings for All Projects.</b> {-}
+###  80.3.2 Findings for All Projects. {-}
 
-#### <b> A. General Environmental Findings. </b> {-}
+####  A. General Environmental Findings.  {-}
 TRPA must analyze and make the required environmental findings pursuant to Chapter 3, Environmental Documentation. In addition, such environmental findings must demonstrate that the project will not adversely impact:
 
 1. Littoral processes;
@@ -24,13 +28,13 @@ TRPA must analyze and make the required environmental findings pursuant to Chapt
 3. Backshore stability; or
 4. On-shore wildlife habitat, including wildfowl nesting areas. 
 
-#### <b> B. Accessory Facilities. </b> {-}
+####  B. Accessory Facilities.  {-}
 TRPA must find that there are sufficient accessory facilities to accommodate the project. 
 
-#### <b> C. Compatibility. </b> {-}
+####  C. Compatibility.  {-}
 TRPA must find that the project is compatible with existing shorezone and lakezone uses or structures on, or in the immediate vicinity of, the littoral parcel; or that modifications of such existing uses or structures will be undertaken to assure compatibility.
 
-#### <b> D. Water Dependent Use. </b> {-}
+####  D. Water Dependent Use.  {-}
 TRPA must find that the proposed use in the lakezone, nearshore, foreshore, or lagoon is water-dependent.
 
 
